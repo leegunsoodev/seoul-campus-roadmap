@@ -1,0 +1,425 @@
+[
+  {
+    "id": "snu",
+    "name": "서울대학교",
+    "year": 2025,
+    "department": "컴퓨터공학부",
+    "route": "학생부종합 일반전형",
+    "school70": 1.39,
+    "schoolAverage": null,
+    "csat": {
+      "korean": null,
+      "math": null,
+      "inquiry1": null,
+      "inquiry2": null,
+      "english": null,
+      "converted": 411.4,
+      "route": "정시 일반전형",
+      "department": "컴퓨터공학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000019",
+    "admission": "https://admission.snu.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "수시 일반전형은 학생부종합 정성평가. 지역균형 같은 학부의 교과 70%는 1.11. 정시 백분위 칸은 공란이고 411.4는 서울대 환산점수."
+    ]
+  },
+  {
+    "id": "yonsei",
+    "name": "연세대학교",
+    "year": 2025,
+    "department": "전기전자공학부",
+    "route": "학생부교과 추천형",
+    "school70": 1.26,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 91,
+      "math": 98,
+      "inquiry1": 94,
+      "inquiry2": 94,
+      "english": 2,
+      "converted": 701.1039,
+      "route": "정시 일반전형",
+      "department": "전기전자공학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000149",
+    "admission": "https://admission.yonsei.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음."
+    ]
+  },
+  {
+    "id": "korea",
+    "name": "고려대학교",
+    "year": 2025,
+    "department": "전기전자공학부",
+    "route": "학생부교과 학교추천",
+    "school70": 1.34,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 93.3,
+      "math": 98,
+      "inquiry1": 94,
+      "inquiry2": 94,
+      "english": null,
+      "converted": 666.76,
+      "route": "정시 일반전형",
+      "department": "전기전자공학부",
+      "average70": 95.17,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000069",
+    "admission": "https://oku.korea.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음.",
+      "고려대는 원문이 과목별 70%cut 및 평균(백분위) 95.17 형식. 다른 대학의 70% 위치 한 학생 성적과 지표 정의를 동일시하지 말 것."
+    ]
+  },
+  {
+    "id": "sogang",
+    "name": "서강대학교",
+    "year": 2025,
+    "department": "컴퓨터공학과",
+    "route": "학생부교과 지역균형",
+    "school70": 1.44,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 92,
+      "math": 98,
+      "inquiry1": 75,
+      "inquiry2": 80,
+      "english": 1,
+      "converted": 499.9,
+      "route": "정시 일반전형",
+      "department": "컴퓨터공학과",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000120",
+    "admission": "https://admission.sogang.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음."
+    ]
+  },
+  {
+    "id": "skku",
+    "name": "성균관대학교",
+    "year": 2025,
+    "department": "전자전기공학부",
+    "route": "학생부교과 학교장추천",
+    "school70": 1.52,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 82,
+      "math": 98,
+      "inquiry1": 97,
+      "inquiry2": 85,
+      "english": 3,
+      "converted": 653.68,
+      "route": "정시 일반전형",
+      "department": "전자전기공학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000133",
+    "admission": "https://admission.skku.edu",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음.",
+      "전자전기공학부는 수원 자연과학캠퍼스. 서울 소재 공학부로 표시하지 말 것."
+    ]
+  },
+  {
+    "id": "hanyang",
+    "name": "한양대학교",
+    "year": 2025,
+    "department": "컴퓨터소프트웨어학부",
+    "route": "학생부교과 추천형",
+    "school70": 1.34,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 91,
+      "math": 98,
+      "inquiry1": 94,
+      "inquiry2": 90,
+      "english": 2,
+      "converted": 946.18,
+      "route": "정시 일반전형",
+      "department": "컴퓨터소프트웨어학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000203",
+    "admission": "https://go.hanyang.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음."
+    ]
+  },
+  {
+    "id": "cau",
+    "name": "중앙대학교",
+    "year": 2025,
+    "department": "소프트웨어학부",
+    "route": "학생부교과 지역균형",
+    "school70": 1.6,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 96,
+      "math": 93,
+      "inquiry1": 98,
+      "inquiry2": 80,
+      "english": 2,
+      "converted": 765.9,
+      "route": "정시 일반전형",
+      "department": "소프트웨어학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000175",
+    "admission": "https://admission.cau.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음."
+    ]
+  },
+  {
+    "id": "khu",
+    "name": "경희대학교",
+    "year": 2025,
+    "department": "컴퓨터공학부 컴퓨터공학과",
+    "route": "학생부교과 지역균형",
+    "school70": 1.72,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 86,
+      "math": 95,
+      "inquiry1": 85,
+      "inquiry2": 90,
+      "english": 2,
+      "converted": 558.62,
+      "route": "정시 일반전형",
+      "department": "컴퓨터공학부 컴퓨터공학과",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000066",
+    "admission": "https://iphak.khu.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음.",
+      "컴퓨터공학부는 용인 국제캠퍼스. 수시 모집인원 2명이라 매우 작은 표본. 대표 학과 사례일 뿐 이공계 평균이 아님."
+    ]
+  },
+  {
+    "id": "uos",
+    "name": "서울시립대학교",
+    "year": 2025,
+    "department": "컴퓨터과학부",
+    "route": "학생부교과 지역균형선발",
+    "school70": 1.6,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 88,
+      "math": 97,
+      "inquiry1": 83,
+      "inquiry2": 91,
+      "english": 2,
+      "converted": 935.34,
+      "route": "정시 일반전형",
+      "department": "컴퓨터과학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000040",
+    "admission": "https://admission.uos.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음."
+    ]
+  },
+  {
+    "id": "konkuk",
+    "name": "건국대학교",
+    "year": 2025,
+    "department": "컴퓨터공학부",
+    "route": "학생부교과 KU지역균형",
+    "school70": 1.77,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 97,
+      "math": 92,
+      "inquiry1": 85,
+      "inquiry2": 88,
+      "english": 3,
+      "converted": 669.14,
+      "route": "정시 일반전형",
+      "department": "컴퓨터공학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000052",
+    "admission": "https://enter.konkuk.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음."
+    ]
+  },
+  {
+    "id": "dongguk",
+    "name": "동국대학교",
+    "year": 2025,
+    "department": "컴퓨터·AI학부",
+    "route": "학교장추천인재",
+    "school70": null,
+    "schoolAverage": 2.0,
+    "csat": {
+      "korean": null,
+      "math": null,
+      "inquiry1": null,
+      "inquiry2": null,
+      "english": null,
+      "converted": 692.723,
+      "route": "정시 일반전형",
+      "department": "컴퓨터·AI학부(자연)",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000100",
+    "admission": "https://ipsi.dongguk.edu",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "수시 원문은 최종등록자 교과성적 평균 2.00만 공개. 70%컷으로 표시 금지. 정시는 컴퓨터·AI학부(자연)의 환산점수."
+    ]
+  },
+  {
+    "id": "hongik",
+    "name": "홍익대학교",
+    "year": 2025,
+    "department": "컴퓨터공학과",
+    "route": "학교장추천자(서울)",
+    "school70": 1.92,
+    "schoolAverage": null,
+    "csat": {
+      "korean": 75,
+      "math": 92,
+      "inquiry1": 83,
+      "inquiry2": null,
+      "english": 2,
+      "converted": 129.8,
+      "route": "정시 일반전형",
+      "department": "컴퓨터공학과",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000212",
+    "admission": "https://admission.hongik.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "국어·수학·탐구는 백분위, 영어는 등급. 원문 70% 위치의 과목별 지표이며 학과 전체 평균을 뜻하지 않음.",
+      "원문 탐1 83.0, 탐2 공란. 공란을 0 또는 단일 선택과목 성적으로 추정하지 말 것. 필요하면 탐구 백분위 표시를 생략."
+    ]
+  },
+  {
+    "id": "seoultech",
+    "name": "서울과학기술대학교",
+    "year": 2025,
+    "department": "컴퓨터공학과",
+    "route": "학생부교과 고교추천",
+    "school70": 2.0,
+    "schoolAverage": null,
+    "csat": {
+      "korean": null,
+      "math": null,
+      "inquiry1": null,
+      "inquiry2": null,
+      "english": null,
+      "converted": 921.29,
+      "route": "정시 일반전형",
+      "department": "컴퓨터공학과",
+      "average70": 83.83,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000036",
+    "admission": "https://admission.seoultech.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "정시 원문이 최종등록자 70%cut 평균(백분위) 지표를 직접 제공. 다른 학교의 과목별 수치로 만든 평균과 구분."
+    ]
+  },
+  {
+    "id": "ssu",
+    "name": "숭실대학교",
+    "year": 2025,
+    "department": "컴퓨터학부",
+    "route": "학생부교과 학생부우수자",
+    "school70": 1.99,
+    "schoolAverage": null,
+    "csat": {
+      "korean": null,
+      "math": null,
+      "inquiry1": null,
+      "inquiry2": null,
+      "english": null,
+      "converted": 915.72,
+      "route": "정시 일반전형",
+      "department": "컴퓨터학부",
+      "average70": 85.66,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000143",
+    "admission": "https://admission.ssu.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님.",
+      "정시 원문이 최종등록자 70%cut 평균(백분위) 지표를 직접 제공. 다른 학교의 과목별 수치로 만든 평균과 구분."
+    ]
+  },
+  {
+    "id": "kw",
+    "name": "광운대학교",
+    "year": 2025,
+    "department": "컴퓨터정보공학부",
+    "route": "학생부교과 지역균형",
+    "school70": 2.29,
+    "schoolAverage": null,
+    "csat": {
+      "korean": null,
+      "math": null,
+      "inquiry1": null,
+      "inquiry2": null,
+      "english": null,
+      "converted": 687.29,
+      "route": "정시 일반전형",
+      "department": "컴퓨터정보공학부",
+      "average70": null,
+      "metric": "최종등록자 대학별 환산점수 70%컷 및 원문 백분위 지표"
+    },
+    "url": "https://www.adiga.kr/ucp/uvt/uni/univDetailSelection.do?menuId=PCUVTINF2000&searchSyr=2026&unvCd=0000074",
+    "admission": "https://iphak.kw.ac.kr",
+    "notes": [
+      "2025학년도 실제 과거 결과. 수시 학생부등급은 9등급 체제이며 2030학년도 5등급 합격선으로 환산할 수 없음.",
+      "대학·전형별 산출방법이 다르므로 대학 간 직접 수치 비교 불가. 70%컷은 평균·최저합격선·합격확률 70%가 아님."
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+research.md
+research-admissions.md
+plan.md
+error.md
+verification.md
+qa-preview.html
+*.png
+*.zip
+node_modules/
+.env*
+*진학기록*.json
